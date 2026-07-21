@@ -166,11 +166,6 @@ You can add screenshots of:
 
 ![Register](screenshots/register.png)
 
----
-
-## Profile Page
-
-![Profile](screenshots/profile.png)
 
 ---
 
