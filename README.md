@@ -174,7 +174,7 @@ You can add screenshots of:
 **Hamza Ty**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/tyhamza41-lgtm
 
 ---
 
