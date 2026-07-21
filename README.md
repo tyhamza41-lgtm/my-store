@@ -152,7 +152,7 @@ You can add screenshots of:
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/heroSection.png)
 
 ---
 
@@ -173,10 +173,6 @@ You can add screenshots of:
 ![Profile](screenshots/profile.png)
 
 ---
-
-## Admin Dashboard
-
-![Admin](screenshots/admin.png)
 
 ## 👨‍💻 Author
 
